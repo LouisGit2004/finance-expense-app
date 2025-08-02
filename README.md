@@ -10,6 +10,12 @@ A Streamlit application for categorizing and visualizing your financial transact
 - **Visual Analytics**: Pie charts and summary tables for expense breakdown
 - **CSV Import**: Works with transaction exports from most banks
 
+## Tech Stack 🧰
+
+- **Python**
+- **Streamlit**
+- **Plotly**
+
 ## Application Screenshots 📸
 
 ### Expenses Dashboard (Debits)
