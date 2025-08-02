@@ -29,9 +29,8 @@ A Streamlit application for categorizing and visualizing your financial transact
 ## How It Works 🛠️
 
 1. Upload your bank transaction CSV file
-2. The app automatically categorizes transactions based on keywords
-3. Review and edit categories as needed
-4. View visual breakdowns of your spending
+2. Review and edit categories as needed
+3. View visual breakdowns of your spending
 
 ## File Format Requirements 📄
 
