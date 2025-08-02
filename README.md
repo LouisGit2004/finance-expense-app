@@ -39,5 +39,5 @@ Your CSV file should include these columns (names can vary):
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/finance-expense-app.git
+   git clone https://github.com/LouisGit2004/finance-expense-app.git
    cd finance-expense-app
